@@ -16,7 +16,7 @@ const routes = [
  
 ]
 
-//路由导航守卫!!!!!!!
+//路由导航守卫!!!
 
 const router = new VueRouter({
   routes
